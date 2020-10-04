@@ -2,6 +2,8 @@
 
 Nombre del Proyecto: Las Macetas de Miranda Ok.
 
+
+
 URL: https://lamacetademirandaok.netlify.app
 
 Descripcion: Este es mi primer proyecto integrador en EDUCACION IT, durante mi formación formal como futuro Desarrollador Web Full Stack. Este proyecto integrador forma parte del primer curso de HTML 5 Fundamentos de una Página Web, en los cuales aprendimos algunas caracteristicas básicas de HTML y CSS.
